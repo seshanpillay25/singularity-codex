@@ -31,3 +31,23 @@ $$
 $$
 \Delta t\, \Delta E \ge \frac{\hbar}{2}\left[1 + \eta\, \left(\frac{\Delta E}{E_p}\right)^2\right]
 $$
+
+$$
+i\hbar\, \frac{\partial}{\partial t}\psi(x,t) = D_\alpha\,(-\hbar^2 \Delta)^{\alpha/2}\psi(x,t) + V(x)\,\psi(x,t)
+$$
+
+$$
+\Delta \Phi + \xi\, (-\Delta)^{\frac{\alpha}{2}} \Phi = 4\pi G \rho
+$$
+
+$$
+\nabla_\mu F^{\mu\nu} + \kappa\, \Bigl(F_{\alpha\beta}F^{\alpha\beta}\Bigr) F^{\mu\nu} = \mu_0\, J^\nu
+$$
+
+$$
+\frac{\partial \Phi_{\text{foam}}}{\partial t} = \nabla^2 \Phi_{\text{foam}} - \mu\, \Phi_{\text{foam}}^3
+$$
+
+$$
+S_{\text{BH}} = \frac{k_B c^3 A}{4G\hbar} + \sigma\, \ln\left(\frac{A}{A_0}\right)
+$$
