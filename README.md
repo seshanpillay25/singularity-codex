@@ -49,5 +49,41 @@ $$
 $$
 
 $$
+|\psi(t+\Delta t)\rangle = U_{\mathrm{QC}}(\Delta t)\,|\psi(t)\rangle
+$$
+
+$$
+U_{\mathrm{QC}}(\Delta t) = \exp\!\left[-\frac{i}{\hbar}H\,\Delta t - \Gamma\,\Delta t\,\hat{D}\right]
+$$
+
+$$
+d|\psi\rangle = \left[-\frac{i}{\hbar}H\,dt + \sum_{j}\Bigl( L_j - \langle L_j\rangle \Bigr)\,dW_j(t) - \frac{1}{2}\sum_{j}\Bigl( L_j - \langle L_j\rangle \Bigr)^2 dt\right]|\psi\rangle + \kappa\,\mathcal{E}(|\psi\rangle)\,dt
+$$
+
+$$
+\frac{dE}{dt} = \alpha\,\mathcal{F}(E, \psi, H) - \beta\,E + \gamma\,\mathcal{I}(E)
+$$
+
+$$
+i\hbar\,\frac{\partial \psi}{\partial t} = \Bigl( H + \lambda\,\hat{N}(|\psi|^2) \Bigr) \psi
+$$
+
+$$
 S_{\text{BH}} = \frac{k_B c^3 A}{4G\hbar} + \sigma\, \ln\left(\frac{A}{A_0}\right)
+$$
+
+$$
+\frac{d\rho}{dt} = -\frac{i}{\hbar}[H, \rho] + \sum_{j}\left( L_j \rho L_j^\dagger - \frac{1}{2}\{L_j^\dagger L_j, \rho\} \right) + \kappa\,\mathcal{F}_{\mathrm{EC}}(\rho)
+$$
+
+$$
+U_k^{\text{eff}} = U_k \left( I + \epsilon_k\,\Delta_k \right)
+$$
+
+$$
+\theta_{n+1} = \theta_n - \eta\,\nabla_{\theta} \mathcal{L}(\theta, \rho(\theta))
+$$
+
+$$
+F = 1 - \epsilon - \eta\,\langle \hat{O}_{\mathrm{int}} \rangle
 $$
